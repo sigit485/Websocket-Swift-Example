@@ -22,3 +22,11 @@ You can change it to your liking
 
 ## Author
 [**Sigit Hardianto**](https://github.com/sigit485)
+
+## Demo
+<p align="left">
+    <img src="1.gif?raw=true"
+        alt="Notification Action GIF"    
+        style="margin-right: 10px;"    
+        width="200" />
+</p>
