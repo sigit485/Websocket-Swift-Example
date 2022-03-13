@@ -18,8 +18,6 @@ Clone this repository and import into Xcode
 
 iOS 15
 
-You can change it to your liking
-
 ## Author
 [**Sigit Hardianto**](https://github.com/sigit485)
 
